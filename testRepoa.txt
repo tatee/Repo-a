@@ -2,3 +2,5 @@ test
 test add line1.
 This line from repository.
 thanks tee..
+
+This line from local repository
